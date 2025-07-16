@@ -1,0 +1,6 @@
+@Quitsmoking.SOAP.API.Hoangnv_HostAddress = http://localhost:5197
+
+GET {{Quitsmoking.SOAP.API.Hoangnv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
